@@ -23,7 +23,7 @@
 
 <h2>Comparte este proyecto:</h2>
 
-<p>Enlace del proyecto en GitHub Pages: <a href="https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/">https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/</a></p>
+<p>Enlace del proyecto en GitHub Pages: <a href="https://mrinvaderlop.github.io/DescubreMadrid/">https://mrinvaderlop.github.io/DescubreMadrid/</a></p>
 
-<p>Clona este repositorio aquí <a href="https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF.git">https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF.git</a></p>
+<p>Clona este repositorio aquí <a href="https://github.com/MrInvaderLop/DescubreMadrid.git">https://github.com/MrInvaderLop/DescubreMadrid.git</a></p>
 
