@@ -45,6 +45,13 @@ header {
     padding: 10px;
 }
 
+h1{
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 20px;
+}
 
 /* Imagen principal */
 .hero {
@@ -61,7 +68,6 @@ section {
     background: white;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    margin-bottom: 50px;
 }
 
 /* Formularios */
@@ -85,6 +91,10 @@ form button {
 
 form button:hover {
     background: #555;
+}
+
+.second{
+    margin-bottom: 50px;
 }
 
 /* Pie de página */
