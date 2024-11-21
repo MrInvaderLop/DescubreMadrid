@@ -16,14 +16,14 @@
     <li>Por último, en el apartado <b>Presupuesto</b> hago un cálculo estimado de costos divididos por tipo para que compruebes si te es viable hacer el viaje en este momento. Además, tienes un formulario de compra para que puedas apartar tu plan vacacional con nuestra agencia.</li>
   </ul>
 
-  <h2>Información del autor:</h2>
-    <p>El desarrollador de este proyecto es Joel López.</p>
-    <p>Contáctame: <a href="mailto:joel.ernestolv@gmail.com">joel.ernestolv@gmail.com</a></p>
-    <p>Programador Senior. &copy Derechos Reservados.</p>
+<h2>Información del autor:</h2>
+<p>El desarrollador de este proyecto es Joel López.</p>
+<p>Contáctame: <a href="mailto:joel.ernestolv@gmail.com">joel.ernestolv@gmail.com</a></p>
+<p>Programador Senior. &copy Derechos Reservados.</p>
 
 <h2>Comparte este proyecto:</h2>
 
-<p>Enlace del proyecto en GitHub Pages: <a href="https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/">https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/</p>
+<p>Enlace del proyecto en GitHub Pages: <a href="https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/">https://mrinvaderlop.github.io/MiCurriculumVitae_ProyectoU1_DEVF/</a></p>
 
-<p>Clona este repositorio aquí <a href="https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF.git">https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF.git</p>
+<p>Clona este repositorio aquí <a href="https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF.git">https://github.com/MrInvaderLop/MiCurriculumVitae_ProyectoU1_DEVF.git</a></p>
 
